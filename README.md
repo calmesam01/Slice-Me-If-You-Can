@@ -1,5 +1,5 @@
 # Slice Me If You Can
-Slice Me If You Can is a web based game application which uses the stack - HTML5, CSS3, JavaScript, JQuery and JQuery UI.
+Slice Me If You Can is a web based game application which uses the stack - HTML5, CSS3, JavaScript, JQuery and JQuery UI. The game can be played at https://calmesam01.github.io/Slice-Me-If-You-Can/.
 
 The game consists of 
   1. Score 
