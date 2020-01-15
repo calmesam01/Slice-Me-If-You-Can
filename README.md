@@ -14,12 +14,10 @@ The game logic is represented in the following flowchart -
 
 The following scenarios are possible in the game - 
 
-  ![Screenshot from 2020-01-14 22-44-19](https://user-images.githubusercontent.com/16416130/72405771-04626c00-3728-11ea-9f66-d35f7ca6320e.png)
+  ![Screenshot from 2020-01-14 23-57-36](https://user-images.githubusercontent.com/16416130/72406436-3379dd00-372a-11ea-8d41-f258d685fe8d.png)
   
-  ![Screenshot from 2020-01-14 22-46-58](https://user-images.githubusercontent.com/16416130/72406125-332d1200-3729-11ea-9f8f-9f587482e029.png)
+  ![Screenshot from 2020-01-14 23-57-44](https://user-images.githubusercontent.com/16416130/72406435-32e14680-372a-11ea-8b9d-59f6e9f95b24.png)
   
-  ![Screenshot from 2020-01-14 22-47-00](https://user-images.githubusercontent.com/16416130/72406147-44761e80-3729-11ea-843c-f1e2c48502fc.png)
+  ![Screenshot from 2020-01-14 23-57-55](https://user-images.githubusercontent.com/16416130/72406434-32e14680-372a-11ea-8720-2ad9586f1069.png)
   
-  ![Screenshot from 2020-01-14 22-47-11](https://user-images.githubusercontent.com/16416130/72406182-5b1c7580-3729-11ea-9d7a-b984a396b7fb.png)
-  
-  ![Screenshot from 2020-01-14 22-46-47](https://user-images.githubusercontent.com/16416130/72406202-65d70a80-3729-11ea-8982-993c88894b18.png)
+  ![Screenshot from 2020-01-14 23-58-18](https://user-images.githubusercontent.com/16416130/72406433-32e14680-372a-11ea-8e7e-543e748a92e1.png)
